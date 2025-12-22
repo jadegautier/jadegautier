@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I’m Jade 👋
 
-<!--
-**jadegautier/jadegautier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Business Analytics @ Columbia University (May 2026). Interested in data engineering and analytics—ETL pipelines, APIs, and data products.
 
-Here are some ideas to get you started:
+### Featured Projects
+- **Clinect** — ClinicalTrials.gov ETL + multi-database search (PostgreSQL, MongoDB, Neo4j) with Flask API + Next.js UI
+- **[Project Name]** — one line on what you built + tech
+- **[Project Name]** — one line on what you built + tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+Python • SQL • PostgreSQL • MongoDB • Neo4j • Flask • Next.js • Tableau • Git
+
+📫 LinkedIn: https://www.linkedin.com/in/jade-gautier-520834228/
+
