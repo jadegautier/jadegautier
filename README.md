@@ -14,7 +14,7 @@ MS Business Analytics @ Columbia University (May 2026). Interested in data engin
 
 
 ### Skills
-Python • SQL • PostgreSQL • MongoDB • Neo4j • Flask • Next.js • Tableau • Git
+Python • SQL • PostgreSQL • MongoDB • Neo4j • Flask • Next.js • Tableau • Git • Figma
 
 📫 LinkedIn: https://www.linkedin.com/in/jade-gautier-520834228/
 
