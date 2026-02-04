@@ -4,7 +4,8 @@ MS Business Analytics @ Columbia University (May 2026). Interested in data engin
 
 ### Featured Projects
 - **Clinect** — ClinicalTrials.gov ETL + multi-database search (PostgreSQL, MongoDB, Neo4j) with Flask API + Next.js UI
-- **
+- **Tableau** Data Visualization Projects — Graduate-level dashboards exploring chart design, time-series analysis (Magnificent 7 stocks), and geographic mapping (U.S. child poverty rates)
+
 - 
 
 ### Skills
